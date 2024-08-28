@@ -7,7 +7,7 @@ $(document).ready(function() {
 		$("p").addClass("bright");
 		$("img").addClass("border");
 	});
-	$("disappear2").click(function()
+	$("disappear").click(function()
 	{
 		$("p1").toggle(p2 p3)
 	}
