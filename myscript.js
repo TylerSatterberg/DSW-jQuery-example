@@ -9,6 +9,6 @@ $(document).ready(function() {
 	});
 	$("#p1").click(function()
 	{
-		$(".Disappear").toggle();
+		$(".disappear").toggle();
 	}
 });
