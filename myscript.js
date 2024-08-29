@@ -9,6 +9,6 @@ $(document).ready(function() {
 	});
 	$("#p1").click(function()
 	{
-		$("p1").toggleHide(p2 p3);
+		$("p1").toggle(p2 p3);
 	}
 });
